@@ -1,0 +1,17 @@
+{
+    "secretKey":"secretKey",
+    "refreshToken":"refreshToken",
+    "appData": {
+        "storeUrl": "https://apps.apple.com/us/app/time-gap-hidden-objects/id661173158",
+        "taxonomy": "puzzle",
+        "appName": "puzzleApp",
+        "coppa":1,
+        "ccpa":0,
+        "adUnits": {
+          "RewardedVideo": "Live",
+          "Interstitial": "Live",
+          "OfferWall": "Off",
+          "Banner": "Live"
+        }
+      }
+}
