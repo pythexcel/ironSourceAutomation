@@ -19,7 +19,7 @@ const createApp = async ()=>{
 const createAppApiUrl = 'https://platform.ironsrc.com/partners/publisher/applications/v6';
     const data = config.appData; 
     const response = await axios.post(createAppApiUrl,data);
-    console.log(response)
+    console.log(response.data)
 }
 
 
